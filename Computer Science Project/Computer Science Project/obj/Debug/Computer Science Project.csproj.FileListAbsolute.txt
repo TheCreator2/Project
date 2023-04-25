@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Documents\Year 12\Computer Science\CodeStuff\Code\Computer Science Project\Computer Science Project\bin\Debug\Computer Science Project.exe.config
+C:\Users\User\OneDrive\Documents\Year 12\Computer Science\CodeStuff\Code\Computer Science Project\Computer Science Project\bin\Debug\Computer Science Project.exe
+C:\Users\User\OneDrive\Documents\Year 12\Computer Science\CodeStuff\Code\Computer Science Project\Computer Science Project\bin\Debug\Computer Science Project.pdb
+C:\Users\User\OneDrive\Documents\Year 12\Computer Science\CodeStuff\Code\Computer Science Project\Computer Science Project\obj\Debug\Computer Science Project.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\Year 12\Computer Science\CodeStuff\Code\Computer Science Project\Computer Science Project\obj\Debug\Computer_Science_Project.Form1.resources
+C:\Users\User\OneDrive\Documents\Year 12\Computer Science\CodeStuff\Code\Computer Science Project\Computer Science Project\obj\Debug\Computer_Science_Project.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\Year 12\Computer Science\CodeStuff\Code\Computer Science Project\Computer Science Project\obj\Debug\Computer Science Project.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\Year 12\Computer Science\CodeStuff\Code\Computer Science Project\Computer Science Project\obj\Debug\Computer Science Project.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Year 12\Computer Science\CodeStuff\Code\Computer Science Project\Computer Science Project\obj\Debug\Computer Science Project.exe
+C:\Users\User\OneDrive\Documents\Year 12\Computer Science\CodeStuff\Code\Computer Science Project\Computer Science Project\obj\Debug\Computer Science Project.pdb
